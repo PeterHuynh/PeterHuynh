@@ -1,1 +1,1 @@
-Hi I am Peter Huynh. Interesting in SRE and web devellopment
+Hi I am Peter Huynh. Interesting in SRE and web development
