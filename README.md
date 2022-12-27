@@ -1,1 +1,1 @@
-Hi, I am Peter.H a curious DevOps and SRE Engineer.
+Hi, I am Peter and I have good skills of DevOps and SRE Engineer.
