@@ -1,1 +1,1 @@
-Hi, I am Peter and I have good skills of DevOps and SRE Engineer.
+Hi, I am Peter Huynh. My passion is DevSecOps and Site Reliability Engineer.
