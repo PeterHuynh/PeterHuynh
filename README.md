@@ -1,1 +1,1 @@
-Hi, I am Peter Huynh. My passion is DevSecOps and Site Reliability Engineer.
+Strong passion for Cloud DevOps, DevSecOps and Site Reliability Engineering.
