@@ -1,1 +1,1 @@
-Strong passion for Cloud DevOps, DevSecOps and Site Reliability Engineering.
+Passion for Cloud DevOps, Security and Site Reliability Engineering.
